@@ -56,4 +56,10 @@ final class AppFonts {
 
   /// Not used font
   static const TextStyle linkText15PtRegular = TextStyle();
+
+  static const TextStyle customFont = TextStyle(
+    fontFamily: 'Roboto',
+    fontWeight: FontWeight.w400,
+    fontSize: 16,
+  );
 }
