@@ -198,7 +198,7 @@ class OrderDetailsScreenBody extends StatelessWidget {
                                       MainAxisAlignment.spaceBetween,
                                   children: [
                                     Text(
-                                      'Denilev Egor',
+                                      'Ko Yuri',
                                       style:
                                           AppFonts.header14PtSemiBold.copyWith(
                                         color: AppColors.white,
@@ -214,7 +214,7 @@ class OrderDetailsScreenBody extends StatelessWidget {
                                   ],
                                 ),
                                 Text(
-                                  'Belarus, Minsk, Derzhinskogo 3b, 80100',
+                                  'Italy, Naple, Via Toledo 256, 220069',
                                   style: AppFonts.text14PtRegular.copyWith(
                                     color: AppColors.whiteText,
                                   ),
