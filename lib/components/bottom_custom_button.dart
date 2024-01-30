@@ -3,11 +3,11 @@ import 'package:orders_test_task/constants/app_colors.dart';
 import 'package:orders_test_task/constants/app_fonts.dart';
 
 class BottomCustomButton extends StatelessWidget {
-  final VoidCallback onTap;
+  final VoidCallback? onTap;
 
   const BottomCustomButton({
     super.key,
-    required this.onTap,
+    this.onTap,
   });
 
   @override
